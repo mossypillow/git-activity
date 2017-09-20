@@ -5,6 +5,11 @@ Rollcall
 
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
+* Anthony Coralli, Western New England University
+
+* Greg Boyages, Western New England University
+   * Email: gb342218@wne.edu
+   * GitHub: gboyages
 
 * Samah Al Sabbagh, Reach Out to Asia/Education Above All
     * Email: salsabbagh@eaa.org.qa
@@ -357,4 +362,40 @@ Name, Organization, and (optionally) Contact Info
     * On GitHub: ed317023
     * Email: ed317023@wne.edu
     * IRC: Elise_Duquette
+    
+* Priti Narwal, Manav Rachna International University
+    * GitHub: Pnarwal
+    * Email: preeti.fet@mriu.edu.in
+
+* Shobha Tyagi, Manav Rachna International University
+    * GitHub: curiousdtu
+    * Email: shobhatyagi.fet@mriu.edu.in
+    * IRC: shobha
+
+* Gustavo Pinto, Federal University of Para
+    * GitHub: gustavopinto
+    * Email: gpinto@ufpa.br
+    * IRC: gustavopinto
+
+* Gianluca Torta, Università di Torino
+    * GitHub: giatorta
+    * Email: gianluca.torta@unito.it
+    
+* Michael Scott, Falmouth University
+    * GitHub: adrir
+    * Email: michael.scott@falmouth.ac.uk 
+    
+* Sara Roman, Universidad complutense de Madrid
+    * GitHub: SaraRoman
+    * Email: sroman@ucm.es
+    
+* Deepti Reddy, University of Mumbai
+    * GitHub: deeptisiesgst
+    * Email: deepti.reddy@siesgst.ac.in
+
+* Sabine Wojcieszak, University of Applied Science Kiel
+   * Email: sabine@getnext-it.com
+   
+* Vangel Ajanovski, Faculty of Computer Science & Engineering, Ss. Cyril and Methodius, Skopje, Macedonia
+   * Web: https://ajanovski.info
 
