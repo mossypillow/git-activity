@@ -481,6 +481,6 @@ Name, Organization, and (optionally) Contact Info
     * GitHub: wdturner
     * Email: wdturner@gmail.com
 
-* Quashawn Hernandez, Dural College
+* Quashawn Hernandez, Doral College
    * GitHub: HernandezQ17
    * Email: quashawnhernandez@gmail.com
